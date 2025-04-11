@@ -1,0 +1,68 @@
+[
+  {
+    "fen": "r2q1rk1/1pp2pb1/p2p1n1p/3P2p1/8/P1NnP1BP/1P2QPP1/R4RK1 w - - 0 17",
+    "moves": [
+      "e2d3",
+      "f6d7"
+    ],
+    "score": 10.0,
+    "result": {
+      "type": "material advantage",
+      "hardness": 1.0,
+      "hard_moves": 1,
+      "total_moves": 1
+    }
+  },
+  {
+    "fen": "4r1k1/1ppqrpb1/p2p4/3P1P1p/4nBpP/P1NQ4/1P4P1/4RRK1 w - - 0 24",
+    "moves": [
+      "c3e4",
+      "d7b5",
+      "d3b5",
+      "a6b5",
+      "f5f6",
+      "e7e4",
+      "e1e4",
+      "e8e4",
+      "f6g7",
+      "e4d4"
+    ],
+    "score": 6.0,
+    "result": {
+      "type": "material advantage",
+      "hardness": 0.6,
+      "hard_moves": 3,
+      "total_moves": 5
+    }
+  },
+  {
+    "fen": "4r1k1/1pp1rpb1/p2p1N2/3P1q1p/5BpP/P2Q4/1P4P1/4RRK1 b - - 1 25",
+    "moves": [
+      "f5f6",
+      "e1d1"
+    ],
+    "score": 10.0,
+    "result": {
+      "type": "material advantage",
+      "hardness": 1.0,
+      "hard_moves": 1,
+      "total_moves": 1
+    }
+  },
+  {
+    "fen": "4r1k1/1pp1qp2/p2p1b2/3P2Bp/6pP/P2Q4/1P4P1/5RK1 w - - 2 28",
+    "moves": [
+      "g5f6",
+      "e7e3",
+      "d3e3",
+      "e8e3"
+    ],
+    "score": 5.0,
+    "result": {
+      "type": "material advantage",
+      "hardness": 0.5,
+      "hard_moves": 1,
+      "total_moves": 2
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "fen": "4r1k1/1ppqrpb1/p2p1n2/3P1P1p/4PBpP/P1NQ4/1P4P1/4RRK1 b - - 0 23",
+    "moves": [
+      "c7c5",
+      "d5c6",
+      "d7c6"
+    ],
+    "score": 48.39999999999999,
+    "result": {
+      "type": "missed tactic",
+      "eval_difference": 3.9399999999999995,
+      "played_move": "f6e4",
+      "best_move": "d7d8",
+      "hardness": 0.0,
+      "hard_moves": 0,
+      "total_moves": 3
+    }
+  },
+  {
+    "fen": "4r1k1/1pp1rpb1/p2p4/3P1q1p/4NBpP/P2Q4/1P4P1/4RRK1 w - - 0 25",
+    "moves": [
+      "f4h6",
+      "f5g6",
+      "h6g7"
+    ],
+    "score": 146.2,
+    "result": {
+      "type": "missed tactic",
+      "eval_difference": 13.219999999999999,
+      "played_move": "e4f6",
+      "best_move": "f4h6",
+      "hardness": 0.5,
+      "hard_moves": 1,
+      "total_moves": 3
+    }
+  },
+  {
+    "fen": "4r1k1/1pp1qpb1/p2p4/3P2Bp/6pP/P2Q4/1P4P1/5RK1 b - - 1 27",
+    "moves": [
+      "e7e4",
+      "d3e4",
+      "e8e4"
+    ],
+    "score": 151.2,
+    "result": {
+      "type": "missed tactic",
+      "eval_difference": 13.719999999999999,
+      "played_move": "g7f6",
+      "best_move": "e7e5",
+      "hardness": 0.5,
+      "hard_moves": 1,
+      "total_moves": 3
+    }
+  },
+  {
+    "fen": "6k1/1pp2p2/p2p1B2/3r3p/6pP/P5P1/1P3K2/5R2 w - - 0 32",
+    "moves": [
+      "f2e3",
+      "d5c5",
+      "e3e4"
+    ],
+    "score": 82.2,
+    "result": {
+      "type": "missed tactic",
+      "eval_difference": 7.32,
+      "played_move": "f1c1",
+      "best_move": "f2e3",
+      "hardness": 0.0,
+      "hard_moves": 0,
+      "total_moves": 3
+    }
+  },
+  {
+    "fen": "6k1/1pp2p2/p2p1B2/5r1p/6pP/P5P1/1P3K2/2R5 w - - 2 33",
+    "moves": [
+      "f2g2",
+      "f5f6",
+      "c1c7"
+    ],
+    "score": 52.900000000000006,
+    "result": {
+      "type": "missed tactic",
+      "eval_difference": 4.390000000000001,
+      "played_move": "f2e3",
+      "best_move": "f2g2",
+      "hardness": 0.0,
+      "hard_moves": 0,
+      "total_moves": 3
+    }
+  }
+]
